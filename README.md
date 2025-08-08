@@ -8,7 +8,7 @@ This project uses a simple Markov chain model to generate text based on your own
 
 ## 🖼️ Output Screenshot
 
-![Markov Output Preview](assets/preview.png)
+![Markov Output Preview](preview.png)
 
 ---
 
@@ -18,7 +18,6 @@ Click the badge below to launch the notebook instantly in Colab:
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VinjamuriPranaya/PRODIGY_GA_03/blob/main/notebooks/markov_text_generator.ipynb)
 
-> Replace `your-username` with your actual GitHub username after uploading.
 
 ---
 
