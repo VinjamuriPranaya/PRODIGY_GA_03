@@ -16,7 +16,7 @@ This project uses a simple Markov chain model to generate text based on your own
 
 Click the badge below to launch the notebook instantly in Colab:
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VinjamuriPranaya/PRODIGY_GA_03/blob/main/notebooks/markov_text_generator.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VinjamuriPranaya/PRODIGY_GA_03/blob/main/markov_text_generator.ipynb)
 
 
 ---
